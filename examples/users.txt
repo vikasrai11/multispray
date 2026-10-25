@@ -1,0 +1,7 @@
+# Example usernames
+administrator
+Administrator
+admin
+root
+jdoe
+svc_backup

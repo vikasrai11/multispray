@@ -1,0 +1,22 @@
+# ============================================================
+#  MultiSpray – Python dependencies
+# ============================================================
+#  Install with:  pip install -r requirements.txt
+#  Or (recommended):  pipx install --force -r requirements.txt
+# ============================================================
+
+# --- Core (required) -------------------------------------------------------
+colorama>=0.4.6
+
+# --- Protocol engine (required) -------------------------------------------
+# NetExec powers every authentication attempt. Installed here so a single
+# `pip install -r requirements.txt` gets the tool running end-to-end.
+# NOTE: if you already manage NetExec via pipx, delete this line to avoid
+#       version clashes with your existing `nxc` install.
+netexec>=1.2.0
+
+# --- Post-exploitation helpers (provides impacket-mssqlclient, etc.) ------
+impacket>=0.11.0
+
+# --- Optional: convenience for parsing / pretty output --------------------
+rich>=13.7.0

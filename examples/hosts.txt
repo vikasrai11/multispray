@@ -1,0 +1,7 @@
+# Example target hosts — replace with your own (authorised) targets.
+# One IP or hostname per line. Blank lines and '#' comments are ignored.
+10.0.0.5
+10.0.0.7
+10.0.0.9
+win-srv-01.corp.local
+linux-db-01.corp.local
