@@ -24,7 +24,7 @@ with a ready‑to‑paste connect command.
 ```text
 ═══════════════════════════════════════════════════════════════
   MultiSpray v1.2.1  ·  multi-protocol credential sprayer
-  Powered by NetExec (nxc)
+  Developed by Vikas :)
 ═══════════════════════════════════════════════════════════════
 
 [*] Targets : 3 host(s), 5 user(s), 2 password(s), 10 service(s)
